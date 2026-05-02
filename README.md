@@ -12,7 +12,7 @@
 
 ### مرحله ۱: آماده‌سازی
 
-۱. فایل `MasterDNS.zip` را از بخش Releases و یا [این لینک] دانلود کنید و در پوشه **Download** گوشی خود قرار دهید. مسیر دقیق:
+۱. فایل `MasterDNS.zip` را از بخش Releases و یا [این لینک](https://punkpaste.ir/f/MasterDNS-6yzckm) دانلود کنید و در پوشه **Download** گوشی خود قرار دهید. مسیر دقیق:
 
    ```
    /storage/emulated/0/Download/
